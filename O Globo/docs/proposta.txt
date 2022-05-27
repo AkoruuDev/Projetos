@@ -2,7 +2,7 @@ A proposta deste projeto se consiste em fazer uma página cópia do site globo.c
 
 Deve-se aplicar o layout de uma versão simplificada da home da [Globo.com](http://globo.com), utilizando HTML e CSS. Tente deixar sua página ao máximo parecida com o **layout fornecido**!
 
-Para acessar o layout fornecido, procure no caminho:   ./docs/images/layout.png
+Para acessar o layout fornecido, procure no caminho:   ./docs/layout.png
 
 
 
@@ -10,6 +10,10 @@ Para acessar o layout fornecido, procure no caminho:   ./docs/images/layout.png
     - Aplicar o layout seguindo o figma fornecido;
     - Utilize a fonte **Encode Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página
     - Todas as notícias devem ser links. Não é necessário colocar links para as páginas reais, pode ser um link fake (ex: `https://globo.com`).
+
+# Bonus
+    - A parte de bonus trata-se de uma matéria ainda não estudada, mas que será necessária para a evolução como Dev
+    - Para este bonus, foi sugerido que tranformasse o site (ja pronto) que foi criado em um site responsivo
 
 Integrações:
 fonts.google.com
