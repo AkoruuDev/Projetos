@@ -1,0 +1,20 @@
+@media(max-width: 1250px) {
+    .container-principal {
+        flex-direction: column;
+    }
+
+    .right-side {
+        margin-top: 50px;
+    }
+}
+
+@media(max-width: 640px) {
+    .outras-noticias1, .outras-noticias2, .right-side {
+        flex-direction: column;
+        border
+    }
+
+    .left-side {
+        justify-content: center;
+    }
+}
