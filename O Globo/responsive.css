@@ -6,15 +6,24 @@
     .right-side {
         margin-top: 50px;
     }
+
+    .column2 {
+        padding: 0;
+        margin: 0;
+    }
 }
 
 @media(max-width: 640px) {
     .outras-noticias1, .outras-noticias2, .right-side {
         flex-direction: column;
-        border
+        border-right: none;
     }
 
     .left-side {
         justify-content: center;
+    }
+
+    #g1, #o-globo, #valor, #gshow, #quem, #receitas {
+        display: none;
     }
 }
