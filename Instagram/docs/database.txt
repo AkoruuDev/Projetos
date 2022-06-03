@@ -9,19 +9,25 @@ Desenvolvedor
 
 Acessos
     Linha de código
-        https://github.com/akoruudev/projetos/instagram
+        https://github.com/AkoruuDev/Projetos/tree/main/Instagram/
     Deploy
         https://vqqw7w.csb.app/
 
 Tempo de desenvolvimento
-    Data de Inicio
-        31/05/2022
-    Data de término
-        --/--/----
-    Data de entrega
-        06/06/2022
-    Horas de produção
-        13:21:00:00
+	Projeto principal
+	    Data de Inicio
+        	31/05/2022
+	    Data de término
+        	03/06/2022
+    	    Data de entrega
+        	06/06/2022
+    	    Horas de produção
+        	14:19:00:00
+	Bonus AM
+	    ----
+	Bonus
+	    ----
+
 
 Integrações
     @import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100;400 & display=swap');
