@@ -1,0 +1,24 @@
+Proposta inicial
+    Driven
+    projeto: 2
+
+Desenvolvedor
+    Akoruu
+    github.com/akoruudev
+    akoruu.dev@gmail.com
+
+Acessos
+    Linha de código
+        https://github.com/akoruudev/projetos/instagram
+    Deploy
+        https://vqqw7w.csb.app/
+
+Tempo de desenvolvimento
+    Data de Inicio
+        31/05/2022
+    Data de término
+        --/--/----
+    Data de entrega
+        06/06/2022
+    Horas de produção
+        13:21:00:00
